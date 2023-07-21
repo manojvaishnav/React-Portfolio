@@ -1,3 +1,0 @@
-Graduation
-12th
-10th
