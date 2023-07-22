@@ -13,7 +13,7 @@ import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 export default function Contact({ color }) {
   const LinkedIn = "https://linkedin.com/in/manoj-vaishnav";
   const GitHub = "https://github.com/manojvaishnav";
-  const Email = "manojvaisnav989@gmail.com";
+  const Email = "manojvaishnav989@gmail.com";
 
   const linkedin = () => {
     window.open(`${LinkedIn}`, "_blank", "noreferrer,noopener");

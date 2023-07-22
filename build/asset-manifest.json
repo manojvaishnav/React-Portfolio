@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.890ad5c4.js",
+    "main.js": "/static/js/main.b0e106c4.js",
     "static/media/govinda-export.PNG": "/static/media/govinda-export.2ad2a8a937222c7b2366.PNG",
     "static/media/Blog.PNG": "/static/media/Blog.44bd3e6ba3667fa746bd.PNG",
     "static/media/ReactPortfolio.PNG": "/static/media/ReactPortfolio.9efe8235d4500b2c5646.PNG",
@@ -11,10 +11,10 @@
     "static/media/logo.png": "/static/media/logo.bc4b43cd5f20ba305059.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.890ad5c4.js.map": "/static/js/main.890ad5c4.js.map"
+    "main.b0e106c4.js.map": "/static/js/main.b0e106c4.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.890ad5c4.js"
+    "static/js/main.b0e106c4.js"
   ]
 }
