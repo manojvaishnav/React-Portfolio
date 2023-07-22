@@ -65,7 +65,7 @@ const Projects = [
     buttons: [
       {
         text: "Live Demo",
-        href: "https://eloquent-malasada-1da048.netlify.app/",
+        href: "https://easy-resume-generator.netlify.app/",
       },
       {
         text: "Github",
