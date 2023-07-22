@@ -1,6 +1,3 @@
-import nodejs from "../../utills/skills/logo.png";
-import html from "../../utills/skills/html.png";
-
 const SkillsArray = [
   {
     name: [
