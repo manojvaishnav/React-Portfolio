@@ -57,6 +57,8 @@ export default function Projects({ color }) {
 
                       <Text py={2}>{project.description}</Text>
 
+                      <Text color={`${color}.400`}>{project.techStack}</Text>
+
                       <HStack py={2}>
                         {project.buttons.map((button) => (
                           <a key={button.text} href={button.href}>

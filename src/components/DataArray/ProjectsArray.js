@@ -10,8 +10,8 @@ const Projects = [
     image: BlogImage,
     name: "Blog App",
     description:
-      "The Notes App is an innovative project designed to revolutionize note-taking and organization. With advanced security measures, this application ensures the utmost protection for user data, including encrypted passwords. Built using a robust tech stack, including MongoDB, Express.js, React, and Node.js, the Notes App offers a seamless user experience.This feature-rich app allows users to create, update, and delete notes effortlessly, making it a powerful tool for productivity and organization. It seamlessly synchronizes across devices, enabling users to access their notes anytime, anywhere. Additionally, the app supports personalized profiles, allowing users to upload unique profile images securely stored in buffer form.",
-    techStack: "React,Chakra-UI,NodeJs,ExpressJs,MongoDb",
+      "I designed and developed a dynamic blog website using the MERN (MongoDB, Express, React, Node.js) stack. The platform empowers users to freely share their thoughts and ideas by creating and publishing personalized blogs. Through intuitive user interfaces and efficient back-end processes, the website provides a seamless experience for writers to showcase their creativity while engaging readers with compelling content. With a focus on user interaction and functionality, the blog website encourages a thriving community of writers and readers to connect and explore diverse perspectives on a wide range of topics.",
+    techStack: "React, Chakra-UI, NodeJs, ExpressJs, MongoDb",
     buttons: [
       {
         text: "Live Demo",
@@ -28,7 +28,7 @@ const Projects = [
     name: "Notes App",
     description:
       "The Notes App is an innovative project designed to revolutionize note-taking and organization. With advanced security measures, this application ensures the utmost protection for user data, including encrypted passwords. Built using a robust tech stack, including MongoDB, Express.js, React, and Node.js, the Notes App offers a seamless user experience.This feature-rich app allows users to create, update, and delete notes effortlessly, making it a powerful tool for productivity and organization. It seamlessly synchronizes across devices, enabling users to access their notes anytime, anywhere. Additionally, the app supports personalized profiles, allowing users to upload unique profile images securely stored in buffer form.",
-    techStack: "React,Chakra-UI,NodeJs,ExpressJs,MongoDb",
+    techStack: "React, Chakra-UI, NodeJs, ExpressJs, MongoDb",
     buttons: [
       {
         text: "Live Demo",
@@ -45,6 +45,7 @@ const Projects = [
     name: "React Portfolio",
     description:
       "Discover my dynamic React portfolio showcasing an array of projects, educational achievements, diverse skillset, and contact information. Unveil my passion for creativity and technology in one place!",
+    techStack: "Chakra-UI, React",
     buttons: [
       {
         text: "Live Demo",
@@ -78,7 +79,7 @@ const Projects = [
     name: "Chat Gpt Clone",
     description:
       "Its OpenAI-backed features include a Summary Writer for concise document summaries, a Paragraph Writer for captivating intros, and a Chatbot for engaging conversations. Unlock coding potential with the JS Converter, generating JavaScript code based on text commands. Unleash imagination with the Sci-Fi Image Generator, transforming descriptions into stunning futuristic visuals. Dive into this remarkable project and witness the limitless possibilities of AI",
-    techStack: "React,Material-UI,NodeJs,ExpressJs,MongoDb",
+    techStack: "React, Material-UI, NodeJs, ExpressJs, MongoDb",
     buttons: [
       {
         text: "Github",
@@ -90,7 +91,7 @@ const Projects = [
     image: GovindaExportImage,
     name: "Govinda Export",
     description: "Its a business portfolio website that i made for client",
-    techStack: "HTML,CSS,Java Script,Php",
+    techStack: "HTML, CSS, JavaScript, Php",
     buttons: [
       {
         text: "Live Demo",
