@@ -4,8 +4,26 @@ import ChatGptCloneImage from "../../utills/chat-gpt-clone.PNG";
 import GovindaExportImage from "../../utills/govinda-export.PNG";
 import BlogImage from "../../utills/Blog.PNG";
 import ReactPortfolio from "../../utills/ReactPortfolio.PNG";
+import ProjectMgmt from '../../utills/Project Management.png'
 
 const Projects = [
+  {
+    image: ProjectMgmt,
+    name: "Project Management",
+    description:
+      "Robust Project Management System leveraging the power of the MERN stack with GraphQL integration. This application allows seamless management of clients, enabling the addition, deletion of client information. Additionally, it streamlines project management processes, offering functionalities to effortlessly add, delete, and update project details.",
+      techStack: "React, NodeJs, ExpressJs, MongoDb, GraphQL",
+    buttons: [
+      {
+        text: "Live Demo",
+        href: "https://pmgmt.vercel.app/",
+      },
+      {
+        text: "Github",
+        href: "https://github.com/manojvaishnav/Project-Management-GraphQL",
+      },
+    ],
+  },
   {
     image: BlogImage,
     name: "Blog App",

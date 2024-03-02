@@ -17,7 +17,7 @@ export default function Header({ color }) {
   };
   const linkedin = () => {
     window.open(
-      `https://linkedin.com/in/manoj-vaishnav`,
+      `https://drive.google.com/file/d/1Oy4n5zKcug8qT0BGs83S8E0_sY9KuVqP/view?usp=drive_link`,
       "_blank",
       "noreferrer,noopener"
     );
@@ -72,7 +72,7 @@ export default function Header({ color }) {
               }}
               onClick={linkedin}
             >
-              Let's connect!
+              Resume
             </Button>
             <Button
               variant={"link"}

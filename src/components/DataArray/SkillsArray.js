@@ -9,10 +9,12 @@ const SkillsArray = [
       "ExpressJs",
       "MongoDb",
       "MySql",
+      "GraphQL",
+      "REST API",
     ],
   },
   {
-    name: ["C++"],
+    name: ["C++","JavaScript"],
   },
   {
     name: ["Postman", "VS Code", "Git"],

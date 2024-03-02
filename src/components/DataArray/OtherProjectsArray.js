@@ -1,5 +1,15 @@
 const OtherProjectsArray = [
   {
+    name: "Google Related Question API",
+    techstack: "NodeJs, ExpressJs, MongoDB, REST API",
+    links: [
+      {
+        text: "Github",
+        href: "https://github.com/manojvaishnav/Google-Related-Question",
+      },
+    ],
+  },
+  {
     name: "Weather App",
     techstack: "Handlebars(HBS), CSS, NodeJs, ExpressJs, API",
     links: [
