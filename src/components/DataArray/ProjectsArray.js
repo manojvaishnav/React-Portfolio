@@ -5,22 +5,23 @@ import GovindaExportImage from "../../utills/govinda-export.PNG";
 import BlogImage from "../../utills/Blog.PNG";
 import ReactPortfolio from "../../utills/ReactPortfolio.PNG";
 import ProjectMgmt from '../../utills/Project Management.png'
+import Chitchat from '../../utills/Chitchat.png'
 
 const Projects = [
   {
-    image: ProjectMgmt,
-    name: "Project Management",
+    image: Chitchat,
+    name: "Chit-Chat Social Media",
     description:
-      "Robust Project Management System leveraging the power of the MERN stack with GraphQL integration. This application allows seamless management of clients, enabling the addition, deletion of client information. Additionally, it streamlines project management processes, offering functionalities to effortlessly add, delete, and update project details.",
-      techStack: "React, NodeJs, ExpressJs, MongoDb, GraphQL",
+      "Experience 'Chit-Chat,' a sleek social media platform designed for seamless digital connections. Built with React, Chakra UI, Node.js, Express.js, MongoDB, and Socket.io, it offers real-time chats, captivating posts, secure user authentication, and essential features like liking, commenting, saving posts, and effortless user interactions.",
+      techStack: "React, Chakra-UI, NodeJs, ExpressJs, MongoDb, Socket.io",
     buttons: [
       {
         text: "Live Demo",
-        href: "https://pmgmt.vercel.app/",
+        href: "https://chit-chat-6id8.onrender.com/",
       },
       {
         text: "Github",
-        href: "https://github.com/manojvaishnav/Project-Management-GraphQL",
+        href: "https://github.com/manojvaishnav/chit-chat",
       },
     ],
   },
@@ -38,6 +39,23 @@ const Projects = [
       {
         text: "Github",
         href: "https://github.com/manojvaishnav/Blog-Application",
+      },
+    ],
+  },
+  {
+    image: ProjectMgmt,
+    name: "Project Management",
+    description:
+      "Robust Project Management System leveraging the power of the MERN stack with GraphQL integration. This application allows seamless management of clients, enabling the addition, deletion of client information. Additionally, it streamlines project management processes, offering functionalities to effortlessly add, delete, and update project details.",
+      techStack: "React, NodeJs, ExpressJs, MongoDb, GraphQL",
+    buttons: [
+      {
+        text: "Live Demo",
+        href: "https://pmgmt.vercel.app/",
+      },
+      {
+        text: "Github",
+        href: "https://github.com/manojvaishnav/Project-Management-GraphQL",
       },
     ],
   },
