@@ -6,8 +6,26 @@ import BlogImage from "../../utills/Blog.PNG";
 import ReactPortfolio from "../../utills/ReactPortfolio.PNG";
 import ProjectMgmt from '../../utills/Project Management.png'
 import Chitchat from '../../utills/Chitchat.png'
+import Chatbot from '../../utills/chatbot.gif'
 
 const Projects = [
+  {
+    image: Chatbot,
+    name: "Chatbot Creator",
+    description:
+      "As the creator of this project, I'm excited to present a user-friendly platform for effortlessly building custom chatbots. Leveraging a robust MERN stack architecture, ChatBot Maker enables secure authentication, Excel data management, web scraping, and seamless integration into websites. Explore how this project revolutionizes chatbot development!",
+      techStack: "React, Chakra-UI, NodeJs, ExpressJs, MongoDb, Node-NLP, HuggingFace",
+    buttons: [
+      {
+        text: "Live Demo",
+        href: "https://chatbot-website-five.vercel.app/",
+      },
+      {
+        text: "Github",
+        href: "https://github.com/manojvaishnav/chatbot-website",
+      },
+    ],
+  },
   {
     image: Chitchat,
     name: "Chit-Chat Social Media",
